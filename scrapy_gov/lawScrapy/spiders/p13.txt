@@ -1,0 +1,476 @@
+                    <ul class="news-link-list">
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/tdgll/20220106/534035.html" title="关于印发《关于本市落实国土空间用途管制完善执法工作的实施意见》的通知" target="_blank">关于印发《关于本市落实国土空间用途管制完善执法工作的实施意见》的通知</a>
+                                    <span class="time">21-12-28</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/hycyl/20220106/534032.html" title="闵行区人民政府关于印发《闵行区关于促进生物医药产业高质量发展的若干意见》的通知" target="_blank">闵行区人民政府关于印发《闵行区关于促进生物医药产业高质量发展的若干意见》的通知</a>
+                                    <span class="time">21-12-28</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20220106/534031.html" title="闵行区人民政府关于印发《莘庄城市副中心“十四五”规划》的通知" target="_blank">闵行区人民政府关于印发《莘庄城市副中心“十四五”规划》的通知</a>
+                                    <span class="time">21-12-28</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/tdgll/20210706/523852.html" title="关于印发《上海市国有建设用地使用权招标拍卖挂牌出让业务流程及操作规范》的通知 " target="_blank">关于印发《上海市国有建设用地使用权招标拍卖挂牌出让业务流程及操作规范》的通知 </a>
+                                    <span class="time">21-07-06</span>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/hycyl/20210706/523851.html" title="闵行区印发关于加快推进现代服务业高质量发展的政策意见" target="_blank">闵行区印发关于加快推进现代服务业高质量发展的政策意见</a>
+                                    <span class="time">21-07-06</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20210706/523850.html" title="闵行全力支持大学科技园建设！最新政策文件发布！" target="_blank">闵行全力支持大学科技园建设！最新政策文件发布！</a>
+                                    <span class="time">21-07-06</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tdgll/20210225/514439.html" title="闵行区人民政府关于印发《关于闵行区产业用地项目准入、经营性用地研判运行的管理办法（修订版）》的通知 " target="_blank">闵行区人民政府关于印发《关于闵行区产业用地项目准入、经营性用地研判运行的管理办法（修订版）》的通知 </a>
+                                    <span class="time">21-02-25</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/tzcjl/20210225/514438.html" title="国家发展改革委关于印发《虹桥国际开放枢纽建设总体方案》的通知" target="_blank">国家发展改革委关于印发《虹桥国际开放枢纽建设总体方案》的通知</a>
+                                    <span class="time">21-02-25</span>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/hycyl/20210225/514436.html" title="闵行区人民政府关于印发《闵行区关于推进先进制造业高质量发展的若干产业政策意见》的通知 " target="_blank">闵行区人民政府关于印发《闵行区关于推进先进制造业高质量发展的若干产业政策意见》的通知 </a>
+                                    <span class="time">21-02-25</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20200901/491269.html" title="上海公布开发区19条：支持开发区制定出台招商引资优惠政策！" target="_blank">上海公布开发区19条：支持开发区制定出台招商引资优惠政策！</a>
+                                    <span class="time">20-09-01</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/hycyl/20200901/491268.html" title="国务院印发《关于促进国家高新技术产业开发区高质量发展的若干意见》" target="_blank">国务院印发《关于促进国家高新技术产业开发区高质量发展的若干意见》</a>
+                                    <span class="time">20-09-01</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/tdgll/20200901/491267.html" title="闵行区人民政府关于印发《闵行区土地储备成本认定办法》的通知" target="_blank">闵行区人民政府关于印发《闵行区土地储备成本认定办法》的通知</a>
+                                    <span class="time">20-09-01</span>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/tdgll/20200313/476088.html" title="闵行区住房保障和房屋管理局关于进一步简化行政审批、优化营商环境的工作方案 " target="_blank">闵行区住房保障和房屋管理局关于进一步简化行政审批、优化营商环境的工作方案 </a>
+                                    <span class="time">20-03-13</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20200313/476085.html" title="商务部办公厅关于积极应对新冠肺炎疫情加强外资企业服务和招商引资工作的通知" target="_blank">商务部办公厅关于积极应对新冠肺炎疫情加强外资企业服务和招商引资工作的通知</a>
+                                    <span class="time">20-03-13</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/hycyl/20200313/476031.html" title="​闵行区关于全力防控疫情支持服务企业平稳健康发展的若干意见" target="_blank">​闵行区关于全力防控疫情支持服务企业平稳健康发展的若干意见</a>
+                                    <span class="time">20-03-13</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/hycyl/20191217/469492.html" title="闵行区人民政府印发《关于加快推进本区5G网络建设和应用的实施意见》的通知 " target="_blank">闵行区人民政府印发《关于加快推进本区5G网络建设和应用的实施意见》的通知 </a>
+                                    <span class="time">19-11-18</span>
+                                </li>
+                            </ul>
+                            
+                        </li>
+                    </ul>
+                    <ul class="news-link-list">
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/tzcjl/20191213/469314.html" title="国务院印发《关于进一步做好利用外资工作的意见》" target="_blank">国务院印发《关于进一步做好利用外资工作的意见》</a>
+                                    <span class="time">19-11-11</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tdgll/20191217/469511.html" title="闵行区人民政府关于印发《闵行区关于进一步规范房屋土地征收工作的指导意见》的通知 " target="_blank">闵行区人民政府关于印发《闵行区关于进一步规范房屋土地征收工作的指导意见》的通知 </a>
+                                    <span class="time">19-09-24</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20190404/425643.html" title="闵行区人民政府关于印发《闵行区关于推进科技创新创业和成果转化的政策意见》的通知" target="_blank">闵行区人民政府关于印发《闵行区关于推进科技创新创业和成果转化的政策意见》的通知</a>
+                                    <span class="time">19-08-08</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/tzcjl/20181011/393529.html" title="闵行区人民政府关于印发《上海市 闵行区区长质量奖管理办法》的通知" target="_blank">闵行区人民政府关于印发《上海市 闵行区区长质量奖管理办法》的通知</a>
+                                    <span class="time">19-03-12</span>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/hycyl/20181009/393298.html" title="市政府关于进一步支持外资研发中心参与上海具有全球影响力的科技创新中心建设的若干意见" target="_blank">市政府关于进一步支持外资研发中心参与上海具有全球影响力的科技创新中心建设的若干意见</a>
+                                    <span class="time">18-10-09</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tdgll/20180927/392873.html" title="上海市人民政府办公厅关于印发《上海市加快推进具有全球影响力科技创新中心建设的规划土地政策实施办法》的通知" target="_blank">上海市人民政府办公厅关于印发《上海市加快推进具有全球影响力科技创新中心建设的规划土地政策实施办法》的通知</a>
+                                    <span class="time">18-09-27</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/hycyl/20180916/364296.html" title="闵行区人民政府关于印发《闵行区关于促进金融产业发展的实施意见》的通知" target="_blank">闵行区人民政府关于印发《闵行区关于促进金融产业发展的实施意见》的通知</a>
+                                    <span class="time">18-08-15</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/hycyl/20180916/364297.html" title="上海市人民政府关于印发修订后的 《上海市鼓励跨国公司设立地区总部的规定》的通知" target="_blank">上海市人民政府关于印发修订后的 《上海市鼓励跨国公司设立地区总部的规定》的通知</a>
+                                    <span class="time">18-04-02</span>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/tdgll/20180916/364301.html" title="上海市人民政府办公厅转发市规划国土资源局制订的《关于本市盘活存量工业用地的实施办法》的通知" target="_blank">上海市人民政府办公厅转发市规划国土资源局制订的《关于本市盘活存量工业用地的实施办法》的通知</a>
+                                    <span class="time">18-02-05</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/hycyl/20180916/364298.html" title="闵行区人民政府关于印发《闵行区关于加快推进先进制造业发展的若干政策意见》的通知" target="_blank">闵行区人民政府关于印发《闵行区关于加快推进先进制造业发展的若干政策意见》的通知</a>
+                                    <span class="time">18-02-05</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180916/364292.html" title="闵行区人民政府关于印发《闵行区创新创业投资引导基金管理暂行办法》的通知" target="_blank">闵行区人民政府关于印发《闵行区创新创业投资引导基金管理暂行办法》的通知</a>
+                                    <span class="time">18-02-05</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/tdgll/20180916/364302.html" title="上海市人民政府办公厅转发市规划国土资源局制订的《关于加强本市工业用地出让管理的若干规定》的通知" target="_blank">上海市人民政府办公厅转发市规划国土资源局制订的《关于加强本市工业用地出让管理的若干规定》的通知</a>
+                                    <span class="time">18-01-05</span>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180916/364293.html" title="上海市人民政府办公厅关于印发《关于进一步 加大财政支持力度加快建设具有全球影响力的科技创新中心的若干配套政策》的通知" target="_blank">上海市人民政府办公厅关于印发《关于进一步 加大财政支持力度加快建设具有全球影响力的科技创新中心的若干配套政策》的通知</a>
+                                    <span class="time">18-01-05</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365883.html" title="关于印发《闵行区关于发展众创空间推进大众创新创业政策意见的操作细则》的通知" target="_blank">关于印发《闵行区关于发展众创空间推进大众创新创业政策意见的操作细则》的通知</a>
+                                    <span class="time">17-12-04</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365911.html" title="关于印发《闵行区关于发展众创空间推进大众创新创业政策意见的操作细则》的通知" target="_blank">关于印发《闵行区关于发展众创空间推进大众创新创业政策意见的操作细则》的通知</a>
+                                    <span class="time">17-12-04</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/tzcjl/20180924/365910.html" title="上海市人民政府办公厅转发市经济信息化委《关于上海加快发展智能制造助推全球科技创新中心建设的 实施意见》的通知" target="_blank">上海市人民政府办公厅转发市经济信息化委《关于上海加快发展智能制造助推全球科技创新中心建设的 实施意见》的通知</a>
+                                    <span class="time">17-12-04</span>
+                                </li>
+                            </ul>
+                    <ul class="news-link-list">
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365908.html" title="上海市人民政府办公厅印发《关于促进金融服务创新支持上海科技创新中心建设的实施意见》的通知" target="_blank">上海市人民政府办公厅印发《关于促进金融服务创新支持上海科技创新中心建设的实施意见》的通知</a>
+                                    <span class="time">17-12-04</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180916/364294.html" title="关于印发《闵行区关于发展众创空间推进大众创新创业政策意见的操作细则》的通知" target="_blank">关于印发《闵行区关于发展众创空间推进大众创新创业政策意见的操作细则》的通知</a>
+                                    <span class="time">17-12-04</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tdgll/20180916/364303.html" title="上海市人民政府办公厅转发市规划国土资源局制订的《关于加强本市经营性用地出让管理的若干规定》" target="_blank">上海市人民政府办公厅转发市规划国土资源局制订的《关于加强本市经营性用地出让管理的若干规定》</a>
+                                    <span class="time">17-11-30</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/hycyl/20180924/365933.html" title="上海市人民政府关于进一步支持外资研发中心 参与上海具有全球影响力的科技创新中心建设的 若干意见" target="_blank">上海市人民政府关于进一步支持外资研发中心 参与上海具有全球影响力的科技创新中心建设的 若干意见</a>
+                                    <span class="time">17-11-28</span>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/hycyl/20180924/365931.html" title="上海市人民政府办公厅关于印发《上海市鼓励外资研发中心发展的若干意见》的通知" target="_blank">上海市人民政府办公厅关于印发《上海市鼓励外资研发中心发展的若干意见》的通知</a>
+                                    <span class="time">17-11-28</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/hycyl/20180916/364300.html" title="闵行区人民政府关于印发 《闵行区关于进一步鼓励本区企业对接 多层次资本市场的实施意见》的通知" target="_blank">闵行区人民政府关于印发 《闵行区关于进一步鼓励本区企业对接 多层次资本市场的实施意见》的通知</a>
+                                    <span class="time">17-11-28</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/hycyl/20180916/364299.html" title="关于印发闵行区进一步鼓励本区企业对接多层次资本市场实施意见的操作办法的通知" target="_blank">关于印发闵行区进一步鼓励本区企业对接多层次资本市场实施意见的操作办法的通知</a>
+                                    <span class="time">17-11-28</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/tzcjl/20180924/365912.html" title="国家发展改革委关于印发《服务业创新发展大纲（2017—2025年）》的通知" target="_blank">国家发展改革委关于印发《服务业创新发展大纲（2017—2025年）》的通知</a>
+                                    <span class="time">17-07-15</span>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/hycyl/20180924/365929.html" title="闵行区人民政府关于 印发《闵行区关于加快推进现代服务业 发展的政策意见》的通知" target="_blank">闵行区人民政府关于 印发《闵行区关于加快推进现代服务业 发展的政策意见》的通知</a>
+                                    <span class="time">17-07-12</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tdgll/20180916/364304.html" title="闵行区人民政府办公室关于转发《闵行区工业用地全生命周期管理实施细则》（修订版）的通知" target="_blank">闵行区人民政府办公室关于转发《闵行区工业用地全生命周期管理实施细则》（修订版）的通知</a>
+                                    <span class="time">17-06-17</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/hycyl/20180924/365927.html" title="闵行区人民政府办公室关于转发《闵行区 服务业节能降耗工作实施方案》的通知" target="_blank">闵行区人民政府办公室关于转发《闵行区 服务业节能降耗工作实施方案》的通知</a>
+                                    <span class="time">17-06-14</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/hycyl/20180924/365928.html" title="闵行人民政府印发《关于本区深入 推进节能降耗工作的实施意见》的通知" target="_blank">闵行人民政府印发《关于本区深入 推进节能降耗工作的实施意见》的通知</a>
+                                    <span class="time">17-06-14</span>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/tdgll/20180916/364305.html" title="关于印发《关于在建设项目规划管理全过程中推行告知承诺的实施办法》的通知" target="_blank">关于印发《关于在建设项目规划管理全过程中推行告知承诺的实施办法》的通知</a>
+                                    <span class="time">17-05-25</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365906.html" title="闵行区人民政府关于印发《闵行区关于加快推进先进制造业发展的若干政策意见》的通知" target="_blank">闵行区人民政府关于印发《闵行区关于加快推进先进制造业发展的若干政策意见》的通知</a>
+                                    <span class="time">17-02-18</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/hycyl/20180924/365913.html" title="闵行区推广应用新能源汽车资金补贴管理办法" target="_blank">闵行区推广应用新能源汽车资金补贴管理办法</a>
+                                    <span class="time">16-09-21</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/tzcjl/20180924/365905.html" title="闵行区关于支持创新人才参与创业竞赛 的操作细则" target="_blank">闵行区关于支持创新人才参与创业竞赛 的操作细则</a>
+                                    <span class="time">16-04-21</span>
+                                </li>
+                            </ul>
+                    <ul class="news-link-list">
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365904.html" title="闵行区关于支持创新型人才创业的操作细则" target="_blank">闵行区关于支持创新型人才创业的操作细则</a>
+                                    <span class="time">16-04-21</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365899.html" title="闵行区关于院士专家工作站资助的操作细则" target="_blank">闵行区关于院士专家工作站资助的操作细则</a>
+                                    <span class="time">16-04-21</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365903.html" title="闵行区关于人才公寓的操作细则" target="_blank">闵行区关于人才公寓的操作细则</a>
+                                    <span class="time">16-04-21</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/tzcjl/20180924/365901.html" title="闵行区关于领军人才资助的操作细则" target="_blank">闵行区关于领军人才资助的操作细则</a>
+                                    <span class="time">16-04-21</span>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365898.html" title="闵行区关于领军人才生活待遇的操作细则" target="_blank">闵行区关于领军人才生活待遇的操作细则</a>
+                                    <span class="time">16-04-21</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365900.html" title="闵行区关于博士后工作站资助的操作细则" target="_blank">闵行区关于博士后工作站资助的操作细则</a>
+                                    <span class="time">16-04-21</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365894.html" title="闵行区关于留学人员回国创业资助的操作细则" target="_blank">闵行区关于留学人员回国创业资助的操作细则</a>
+                                    <span class="time">16-04-21</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/tzcjl/20180924/365893.html" title="闵行区关于中小学生参加创新类竞赛 的操作细则" target="_blank">闵行区关于中小学生参加创新类竞赛 的操作细则</a>
+                                    <span class="time">16-04-21</span>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365895.html" title="闵行区关于高层次学术活动资助的操作细则" target="_blank">闵行区关于高层次学术活动资助的操作细则</a>
+                                    <span class="time">16-04-21</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tdgll/20180919/364392.html" title="市政府办公厅转发市规划国土资源局制订的《关于本市盘活存量工业用地的实施办法》的通知" target="_blank">市政府办公厅转发市规划国土资源局制订的《关于本市盘活存量工业用地的实施办法》的通知</a>
+                                    <span class="time">16-04-15</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365882.html" title="中国人民银行 发展改革委 工业和信息化部 财政部 商务部 银监会 证监会 保监会关于金融支持工业稳增长调结构增效益的若干意见" target="_blank">中国人民银行 发展改革委 工业和信息化部 财政部 商务部 银监会 证监会 保监会关于金融支持工业稳增长调结构增效益的若干意见</a>
+                                    <span class="time">16-02-17</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/tzcjl/20180919/364389.html" title="闵行区人民政府关于印发《闵行区关于发展 众创空间推进大众创新创业的政策意见》的通知" target="_blank">闵行区人民政府关于印发《闵行区关于发展 众创空间推进大众创新创业的政策意见》的通知</a>
+                                    <span class="time">16-02-16</span>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365876.html" title="高新技术企业认定管理办法" target="_blank">高新技术企业认定管理办法</a>
+                                    <span class="time">16-02-15</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365886.html" title="上海工程技术研究中心建设与管理办法" target="_blank">上海工程技术研究中心建设与管理办法</a>
+                                    <span class="time">16-02-03</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365870.html" title="上海市科技小巨人工程实施办法" target="_blank">上海市科技小巨人工程实施办法</a>
+                                    <span class="time">16-02-03</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/tzcjl/20180924/365885.html" title="上海市科技型中小企业技术创新资金管理办法" target="_blank">上海市科技型中小企业技术创新资金管理办法</a>
+                                    <span class="time">16-02-03</span>
+                                </li>
+                            </ul>
+                            
+                        </li>
+                    </ul>
+                    <ul class="news-link-list">
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365867.html" title="上海市服务业发展引导资金使用和管理办法" target="_blank">上海市服务业发展引导资金使用和管理办法</a>
+                                    <span class="time">16-02-03</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365866.html" title="上海市高端智能装备首台突破和示范应用专项支持实施细则" target="_blank">上海市高端智能装备首台突破和示范应用专项支持实施细则</a>
+                                    <span class="time">16-02-03</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365865.html" title="上海市知识产权优势企业认定办法" target="_blank">上海市知识产权优势企业认定办法</a>
+                                    <span class="time">16-02-03</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/tzcjl/20180924/365864.html" title="上海市节能减排专项资金管理办法" target="_blank">上海市节能减排专项资金管理办法</a>
+                                    <span class="time">16-02-03</span>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365880.html" title="上海市信息化发展专项资金管理办法" target="_blank">上海市信息化发展专项资金管理办法</a>
+                                    <span class="time">16-02-03</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365879.html" title="上海市重点技术改造专项支持实施细则" target="_blank">上海市重点技术改造专项支持实施细则</a>
+                                    <span class="time">16-02-03</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365878.html" title="上海市中小企业发展专项资金管理办法" target="_blank">上海市中小企业发展专项资金管理办法</a>
+                                    <span class="time">16-02-03</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/tzcjl/20180924/365859.html" title="中小企业发展专项资金管理暂行办法" target="_blank">中小企业发展专项资金管理暂行办法</a>
+                                    <span class="time">16-02-03</span>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/tdgll/20180924/365945.html" title="上海市加快推进具有全球影响力科技创新中心建设的规划土地政策实施办法（试行）" target="_blank">上海市加快推进具有全球影响力科技创新中心建设的规划土地政策实施办法（试行）</a>
+                                    <span class="time">16-02-02</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tdgll/20180924/365944.html" title="上海市城市更新实施办法" target="_blank">上海市城市更新实施办法</a>
+                                    <span class="time">16-02-02</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tdgll/20180924/365943.html" title="关于加强本市工业用地出让管理的若干规定（试行）" target="_blank">关于加强本市工业用地出让管理的若干规定（试行）</a>
+                                    <span class="time">16-02-02</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/tdgll/20180924/365935.html" title="上海市规划和国土资源管理局关于加强本市经营性用地出让管理的若干规定(试行)" target="_blank">上海市规划和国土资源管理局关于加强本市经营性用地出让管理的若干规定(试行)</a>
+                                    <span class="time">16-02-02</span>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/tdgll/20180924/365946.html" title="关于支持新产业新业态发展促进大众创业万众创新用地的意见" target="_blank">关于支持新产业新业态发展促进大众创业万众创新用地的意见</a>
+                                    <span class="time">16-02-02</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tdgll/20180924/365937.html" title="上海市人民政府办公厅转发市规划国土资源局制订的《关于本市盘活存量工业用地的实施办法（试行）》的通知" target="_blank">上海市人民政府办公厅转发市规划国土资源局制订的《关于本市盘活存量工业用地的实施办法（试行）》的通知</a>
+                                    <span class="time">16-02-01</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tdgll/20180924/365936.html" title="关于印发《上海市工业用地弹性出让年期和容积率认定导则》的通知" target="_blank">关于印发《上海市工业用地弹性出让年期和容积率认定导则》的通知</a>
+                                    <span class="time">16-01-27</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/tzcjl/20180924/365863.html" title="闵行区人民政府关于转批《闵行区人才公寓操作办法》的通知(闵委办发﹝2011﹞28号)" target="_blank">闵行区人民政府关于转批《闵行区人才公寓操作办法》的通知(闵委办发﹝2011﹞28号)</a>
+                                    <span class="time">15-09-11</span>
+                                </li>
+                            </ul>
+                            
+                        </li>
+                    </ul>
+                    <ul class="news-link-list">
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/tdgll/20180924/365938.html" title="上海市政府印发关于进一步提高本市土地节约集约利用水平的若干意见(沪府发〔2014〕14号)" target="_blank">上海市政府印发关于进一步提高本市土地节约集约利用水平的若干意见(沪府发〔2014〕14号)</a>
+                                    <span class="time">15-09-11</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tdgll/20180924/365941.html" title="国务院办公厅关于推进城区老工业区搬迁改造的指导意见(国办发〔2014〕9号)" target="_blank">国务院办公厅关于推进城区老工业区搬迁改造的指导意见(国办发〔2014〕9号)</a>
+                                    <span class="time">15-09-11</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tdgll/20180924/365940.html" title="市政府办公厅印发上海市工业区转型升级三年行动计划(2013-2015年)(沪府办发〔2013〕56号)" target="_blank">市政府办公厅印发上海市工业区转型升级三年行动计划(2013-2015年)(沪府办发〔2013〕56号)</a>
+                                    <span class="time">15-09-11</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/tdgll/20180924/365939.html" title="上海市人民政府印发关于统筹优化全市工业区块布局的若干意见（沪府发〔2013〕33号）" target="_blank">上海市人民政府印发关于统筹优化全市工业区块布局的若干意见（沪府发〔2013〕33号）</a>
+                                    <span class="time">15-09-11</span>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365869.html" title="上海市人民政府办公厅转发市商务委等八部门关于《上海市鼓励跨国公司设立地区总部 的规定》实施意见的通知(沪府办发〔2012〕51 号)" target="_blank">上海市人民政府办公厅转发市商务委等八部门关于《上海市鼓励跨国公司设立地区总部 的规定》实施意见的通知(沪府办发〔2012〕51 号)</a>
+                                    <span class="time">15-09-11</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365872.html" title="上海市企业自主创新专项资金管理办法(沪经信法〔2013〕353号)" target="_blank">上海市企业自主创新专项资金管理办法(沪经信法〔2013〕353号)</a>
+                                    <span class="time">15-09-11</span>
+                                </li>
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365871.html" title="上海市认定企业技术中心管理办法(沪经技〔2013〕291号)" target="_blank">上海市认定企业技术中心管理办法(沪经技〔2013〕291号)</a>
+                                    <span class="time">15-09-11</span>
+                                </li>
+                                <li>
+                                    <a href="/shmh/tzcjl/20180924/365874.html" title="上海市商务委、市科委、市发展改革委关于印发《上海市关于鼓励外商投资设立研发中心的若干意见》的通知(沪商外资〔2012〕490号)" target="_blank">上海市商务委、市科委、市发展改革委关于印发《上海市关于鼓励外商投资设立研发中心的若干意见》的通知(沪商外资〔2012〕490号)</a>
+                                    <span class="time">15-09-11</span>
+                                </li>
+                                
+                            </ul>
+                        </li>
+                        <li class="clearfix color2">
+                            <ul class="uli14 nowrapli list-date">
+                                  <li>
+                                    <a href="/shmh/tzcjl/20180924/365860.html" title="关于闵行区推进百家企业改制上市的意见" target="_blank">关于闵行区推进百家企业改制上市的意见</a>
+                                    <span class="time">15-07-02</span>
+                                </li>
+                            
+                        </li>
+                    </ul>
